@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action"
+        android:title="定时请求"
+        android:icon="@drawable/ic_cloud_queue_white_24dp"
+        />
+    <item
+        android:id="@+id/cut"
+        android:title="关闭请求"
+        android:icon="@drawable/ic_cloud_off_white_24dp"
+        />
+    <item
+        android:id="@+id/out"
+        android:title="退出软件"
+        android:icon="@drawable/ic_perm_identity_white_24dp"
+        />
+
+</menu>
